@@ -7,7 +7,7 @@
 ### Exploring the ways to live a better life with coding and trying to improve.<br>
 
 - 👨‍🏭 I’m currently pursuing **BS Computer Science from Information Technology University** <br>
-- 🏫 I’m currently learning **Learning How t Learn, AI with Python, C++, Flutter** <br>
+- 🏫 I’m currently learning **Learning How to Learn, AI with Python, C++, Flutter** <br>
 - 🙌 I’m looking to collaborate on **Cross Platform apps, AI** <br>
 - 🤔 I’m looking for help with **Self improvement and scheduling **<br>
 - 🥅 2021 Goals: **Contribute to the open source projects, document and improve my life style.** <br>

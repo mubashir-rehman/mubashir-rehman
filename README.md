@@ -1,40 +1,58 @@
+# Mubashir Rehman – Software Engineer & Drone Enthusiast
 
-# Hi ,I Am Mubashir Rehman! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-<br>
+> “Be thankful for every thorn that others might throw at you. It is a sign that you will soon be showered in roses.”
 
-![](https://komarev.com/ghpvc/?username=mubashir-rehman&color=blue)<br>
+I am a passionate software engineer from Pakistan specializing in cloud automation, AI/ML integration, and autonomous drone systems. My journey has been one of continuous transformation – from robotics to full‑stack development – guided by a philosophy akin to *The Forty Rules of Love*. I believe every challenge shapes us, just as Shams of Tabriz taught: “For new experiences to come to light, old ones need to wither away.”
 
-### Exploring the ways to live a better life with coding and trying to improve.<br>
+---
 
-- 👨‍🏭 I’m currently pursuing **BS Computer Science from Information Technology University** <br>
-- 🏫 I’m currently learning **Learning How to Learn, AI with Python, C++, Flutter** <br>
-- 🙌 I’m looking to collaborate on **Cross Platform apps, AI** <br>
-- 🤔 I’m looking for help with **Self improvement and scheduling **<br>
-- 🥅 2021 Goals: **Contribute to the open source projects, document and improve my life style.** <br>
+## 💼 Experience  
+- **Software Engineer, TransData** (Mar 2025 – Present, Lahore)  
+  Developed AI‑driven automation and internal tooling for HR workflows. Built scalable Python/Django services, integrated third‑party APIs, and deployed reliable cloud solutions on DigitalOcean and AWS.  
 
+- **Team Lead & Software Engineer, Veritus Software** (Jul 2023 – Mar 2025, Lahore)  
+  Led a team to create advanced drone control and simulation systems. Designed robust C++/Python software for autonomous UAV swarms and automated AWS infrastructure deployments.  
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
+- **Teaching Assistant, Information Technology University** (Jan 2023 – May 2023, Lahore)  
+  Guided graduate students in Advanced Operating Systems, facilitated research discussions on exokernels and virtualization, and fostered hands‑on learning through lab assignments.
 
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-mubashir-rehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubashir-rehman/)](https://www.linkedin.com/in/mubashir-rehman/) 
-[![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
-[![Facebook Badge](https://img.shields.io/badge/-mubashirrehman66-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/mubashirrehman66)](https://www.facebook.com/mubashirrehman66) 
-[![Instagram Badge](https://img.shields.io/badge/-@-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) 
+## 📚 Education  
+- **BS in Computer Science**, Information Technology University (2018 – 2024, Lahore)
 
+---
 
-### 📈 Github Stats:
+## 🔧 Skills & Technologies  
+- **Languages:** Python, C++, JavaScript  
+- **Frameworks:** Django, FastAPI, Qt  
+- **Cloud & DevOps:** AWS (EC2, ECS, IAM, VPC), Docker, CI/CD pipelines  
+- **Data & AI:** PostgreSQL, OpenCV, MindsDB, TensorFlow/Keras  
+- **Robotics & Simulation:** ArduPilot, PX4, Gazebo, ROS, QGroundControl  
+- **Other:** RESTful APIs, OAuth2, MQTT, Vagrant, Linux systemd  
 
+---
 
-<br>
-<a href="https://github.com/mubashir-rehman">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubashir-rehman&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a>
-<br><br>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mubashir-rehman&layout=compact&theme=blue-green" />
-</a>
-<br>
-<br><br>
+## 🛠️ Projects & Publication  
+- **FYP Publication:**  
+  *Evaluation of a Low‑Cost Single‑Lead ECG Module for Vascular Ageing Prediction and Studying Smoking‑Induced Changes in ECG*  
+  Published March 2025 in *Circuits, Systems & Signal Processing*. Developed a portable ECG IoT module and ML models for vascular age prediction.  
+  [Read on SpringerLink](https://link.springer.com/article/10.1007/s00034-025-03048-2)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubashir-rehman)](https://git.io/streak-stats)
+---
 
+## ❤️ Inspiration  
+Inspired by Shams of Tabriz and Rumi, I embrace learning and change.  
+“You can be Rumi. If you let love take hold of you and change you...”  
+Every true love and friendship is a story of unexpected transformation.
+
+---
+
+## 🔗 Connect with Me  
+- [GitHub](https://github.com/mubashir-rehman)  
+- [LinkedIn](https://linkedin.com/in/mubashir-rehman)  
+- ✉️ mubashirrehman66@gmail.com  
+
+---
+
+*“Let the beauty of what you love be what you do.”*  

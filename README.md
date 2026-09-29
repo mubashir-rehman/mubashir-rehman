@@ -1,58 +1,32 @@
-# Mubashir Rehman – Software Engineer & Drone Enthusiast
+### Mubashir Rehman
 
-> “Be thankful for every thorn that others might throw at you. It is a sign that you will soon be showered in roses.”
+Lead Software Engineer in Lahore. I build the backend systems behind messy, multi-system workflows, then stay to keep them running. I lead five engineers at TransData and work mostly in Python, PostgreSQL and AWS.
 
-I am a passionate software engineer from Pakistan specializing in cloud automation, AI/ML integration, and autonomous drone systems. My journey has been one of continuous transformation – from robotics to full‑stack development – guided by a philosophy akin to *The Forty Rules of Love*. I believe every challenge shapes us, just as Shams of Tabriz taught: “For new experiences to come to light, old ones need to wither away.”
+**Portfolio and case studies:** [mubashir-rehman.is-a.dev](https://mubashir-rehman.is-a.dev)
 
----
+#### Recent work
 
-## 💼 Experience  
-- **Software Engineer, TransData** (Mar 2025 – Present, Lahore)  
-  Developed AI‑driven automation and internal tooling for HR workflows. Built scalable Python/Django services, integrated third‑party APIs, and deployed reliable cloud solutions on DigitalOcean and AWS.  
+- **An AI voice front desk for dental clinics**, taken from AI-scaffolded code to a production launch in September 2026, with its AWS backend designed and deployed on HIPAA-eligible services. [Case study](https://mubashir-rehman.is-a.dev/projects/dental-ai-front-desk/)
+- **AI agents inside a live ERP**: multi-company procurement with purchase-order drafting, approval and audit logging. [Case study](https://mubashir-rehman.is-a.dev/projects/erp-ai-agents/)
+- **A social and market signal intelligence backend**, built as sole author: ingestion, pgvector search and an alert engine. [Case study](https://mubashir-rehman.is-a.dev/projects/social-signal-intelligence-backend/)
 
-- **Team Lead & Software Engineer, Veritus Software** (Jul 2023 – Mar 2025, Lahore)  
-  Led a team to create advanced drone control and simulation systems. Designed robust C++/Python software for autonomous UAV swarms and automated AWS infrastructure deployments.  
+Most of my work is under NDA and lives in private repositories, so the case studies describe it by function, never by name.
 
-- **Teaching Assistant, Information Technology University** (Jan 2023 – May 2023, Lahore)  
-  Guided graduate students in Advanced Operating Systems, facilitated research discussions on exokernels and virtualization, and fostered hands‑on learning through lab assignments.
+#### Public
 
----
+- **[HireTrack](https://github.com/mubashir-rehman/job-application-tracker)**: a job-application tracker that tailors résumés and scores job descriptions with a LangGraph pipeline. [Live](https://job-application-tracker-sigma-liard.vercel.app)
+- **[This portfolio](https://github.com/mubashir-rehman/mubashir-rehman.github.io)**: a static Astro site with a build gate for SEO, accessibility and copy rules.
 
-## 📚 Education  
-- **BS in Computer Science**, Information Technology University (2018 – 2024, Lahore)
+#### Research
 
----
+Co-author, *Evaluation of a low-cost single-lead ECG module for vascular ageing prediction and studying smoking-induced changes in ECG*, Circuits, Systems, and Signal Processing (Springer, 2025). I owned the data and model-training pipeline. [DOI](https://doi.org/10.1007/s00034-025-03048-2) · [arXiv](https://arxiv.org/abs/2308.04355)
 
-## 🔧 Skills & Technologies  
-- **Languages:** Python, C++, JavaScript  
-- **Frameworks:** Django, FastAPI, Qt  
-- **Cloud & DevOps:** AWS (EC2, ECS, IAM, VPC), Docker, CI/CD pipelines  
-- **Data & AI:** PostgreSQL, OpenCV, MindsDB, TensorFlow/Keras  
-- **Robotics & Simulation:** ArduPilot, PX4, Gazebo, ROS, QGroundControl  
-- **Other:** RESTful APIs, OAuth2, MQTT, Vagrant, Linux systemd  
+#### Stack
 
----
+Python, Django/DRF, FastAPI, Node.js/TypeScript, PostgreSQL, Redis, Celery, Docker, AWS (CDK, ECS, RDS). LLM agents with tool-calling, RAG and pgvector search, self-hosted inference with vLLM and LiteLLM.
 
-## 🛠️ Projects & Publication  
-- **FYP Publication:**  
-  *Evaluation of a Low‑Cost Single‑Lead ECG Module for Vascular Ageing Prediction and Studying Smoking‑Induced Changes in ECG*  
-  Published March 2025 in *Circuits, Systems & Signal Processing*. Developed a portable ECG IoT module and ML models for vascular age prediction.  
-  [Read on SpringerLink](https://link.springer.com/article/10.1007/s00034-025-03048-2)
+#### Contact
 
----
+[Email](mailto:mubashirrehman66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mubashir-rehman) · [Google Scholar](https://scholar.google.com/citations?user=-N7lsKsAAAAJ)
 
-## ❤️ Inspiration  
-Inspired by Shams of Tabriz and Rumi, I embrace learning and change.  
-“You can be Rumi. If you let love take hold of you and change you...”  
-Every true love and friendship is a story of unexpected transformation.
-
----
-
-## 🔗 Connect with Me  
-- [GitHub](https://github.com/mubashir-rehman)  
-- [LinkedIn](https://linkedin.com/in/mubashir-rehman)  
-- ✉️ mubashirrehman66@gmail.com  
-
----
-
-*“Let the beauty of what you love be what you do.”*  
+<sub>Let the beauty of what you love be what you do.</sub>

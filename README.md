@@ -1,32 +1,32 @@
-### Mubashir Rehman
+<a href="https://mubashir-rehman.is-a.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Mubashir Rehman, Lead Software Engineer in Lahore. I like difficult systems. I like figuring out why they break. Then I like making them boring." src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-Lead Software Engineer in Lahore. I build the backend systems behind messy, multi-system workflows, then stay to keep them running. I lead five engineers at TransData and work mostly in Python, PostgreSQL and AWS.
+I build the backend systems behind messy, multi-system workflows, then stay to keep them running. I lead five engineers at TransData, and my favourite bug is a number that does not add up.
 
-**Portfolio and case studies:** [mubashir-rehman.is-a.dev](https://mubashir-rehman.is-a.dev)
+Most of my work is under NDA in private repositories, so my [portfolio](https://mubashir-rehman.is-a.dev) describes it by function, with a system diagram and what broke for each.
 
-#### Recent work
-
-- **An AI voice front desk for dental clinics**, taken from AI-scaffolded code to a production launch in September 2026, with its AWS backend designed and deployed on HIPAA-eligible services. [Case study](https://mubashir-rehman.is-a.dev/projects/dental-ai-front-desk/)
-- **AI agents inside a live ERP**: multi-company procurement with purchase-order drafting, approval and audit logging. [Case study](https://mubashir-rehman.is-a.dev/projects/erp-ai-agents/)
-- **A social and market signal intelligence backend**, built as sole author: ingestion, pgvector search and an alert engine. [Case study](https://mubashir-rehman.is-a.dev/projects/social-signal-intelligence-backend/)
-
-Most of my work is under NDA and lives in private repositories, so the case studies describe it by function, never by name.
-
-#### Public
-
-- **[HireTrack](https://github.com/mubashir-rehman/job-application-tracker)**: a job-application tracker that tailors résumés and scores job descriptions with a LangGraph pipeline. [Live](https://job-application-tracker-sigma-liard.vercel.app)
-- **[This portfolio](https://github.com/mubashir-rehman/mubashir-rehman.github.io)**: a static Astro site with a build gate for SEO, accessibility and copy rules.
+<a href="https://mubashir-rehman.is-a.dev/projects/dental-ai-front-desk/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dental-dark.svg"><img alt="Ownership: AI voice front desk for dental clinics. Live since 3 September 2026." src="assets/card-dental-light.svg" width="49%"></picture></a>
+<a href="https://mubashir-rehman.is-a.dev/projects/social-signal-intelligence-backend/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-signal-dark.svg"><img alt="Systems: social and market signal backend. Sole author, 154 of 155 commits." src="assets/card-signal-light.svg" width="49%"></picture></a>
+<a href="https://mubashir-rehman.is-a.dev/projects/erp-ai-agents/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-erp-dark.svg"><img alt="Applied AI: AI agents inside a live ERP. Two live deployments." src="assets/card-erp-light.svg" width="49%"></picture></a>
+<a href="https://github.com/mubashir-rehman/job-application-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-hiretrack-dark.svg"><img alt="Open source: HireTrack, a job-application tracker." src="assets/card-hiretrack-light.svg" width="49%"></picture></a>
 
 #### Research
 
 Co-author, *Evaluation of a low-cost single-lead ECG module for vascular ageing prediction and studying smoking-induced changes in ECG*, Circuits, Systems, and Signal Processing (Springer, 2025). I owned the data and model-training pipeline. [DOI](https://doi.org/10.1007/s00034-025-03048-2) · [arXiv](https://arxiv.org/abs/2308.04355)
 
-#### Stack
+#### Daily tools
 
-Python, Django/DRF, FastAPI, Node.js/TypeScript, PostgreSQL, Redis, Celery, Docker, AWS (CDK, ECS, RDS). LLM agents with tool-calling, RAG and pgvector search, self-hosted inference with vLLM and LiteLLM.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Python, Django, FastAPI, Node.js, TypeScript, PostgreSQL, Redis, Celery, Docker, AWS CDK, pgvector, LLM agents, vLLM" src="assets/stack-light.svg" width="100%">
+</picture>
 
-#### Contact
+#### Say hello
 
-[Email](mailto:mubashirrehman66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mubashir-rehman) · [Google Scholar](https://scholar.google.com/citations?user=-N7lsKsAAAAJ)
+[Email](mailto:mubashirrehman66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mubashir-rehman) · [Google Scholar](https://scholar.google.com/citations?user=-N7lsKsAAAAJ) · [Portfolio](https://mubashir-rehman.is-a.dev)
 
 <sub>Let the beauty of what you love be what you do.</sub>

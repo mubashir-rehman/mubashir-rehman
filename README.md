@@ -27,6 +27,6 @@ Co-author, *Evaluation of a low-cost single-lead ECG module for vascular ageing 
 
 #### Say hello
 
-[Email](mailto:mubashirrehman66@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mubashir-rehman) · [Google Scholar](https://scholar.google.com/citations?user=-N7lsKsAAAAJ) · [Portfolio](https://mubashirrehman.com)
+[Email](mailto:hello@mubashirrehman.com) · [LinkedIn](https://www.linkedin.com/in/mubashir-rehman) · [Google Scholar](https://scholar.google.com/citations?user=-N7lsKsAAAAJ) · [Portfolio](https://mubashirrehman.com)
 
 <sub>Let the beauty of what you love be what you do.</sub>
